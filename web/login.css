@@ -13,4 +13,5 @@
 .web-access-submit{box-sizing:border-box;width:100%;min-height:49px;border:1px solid #c9ba82;border-radius:4px;padding:12px 18px;background:#d8c58b;color:#182c23;font:600 16px system-ui;text-align:center;cursor:pointer}
 .web-access-submit span{float:right}.web-access-submit:disabled{opacity:.7;cursor:wait}
 .web-access-card footer{border-top:1px solid #34513f;margin-top:30px;padding-top:20px;font-size:11px;line-height:1.9;color:#a6b5a6}.web-access-card footer a{color:#c9b981;text-decoration:underline;text-underline-offset:3px}
+.web-rights{clear:both;padding:22px 20px;background:#0b1d19;border-top:1px solid #35503e;color:#c7d2c4;text-align:center;font:12px/1.7 system-ui,sans-serif}.web-rights strong{font-size:13px;color:#e5d49f}.web-rights p{max-width:850px;margin:7px auto}.web-rights a{color:#d8c58b;text-decoration:underline;text-underline-offset:3px}
 @media(max-width:430px){.web-access{padding:18px 14px}.web-access-card{padding:28px 24px}.web-access-card h1{font-size:34px}}
