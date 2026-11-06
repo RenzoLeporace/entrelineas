@@ -10,7 +10,7 @@ La edición de pruebas web utiliza un acceso visual con usuario y contraseña en
 
 El progreso web se guarda en este navegador. Exportá la partida desde Ajustes antes de cambiar de dispositivo. Los ejecutables Android y Windows conservan el acceso directo, sin login.
 
-`node scripts/prepare-web.mjs` genera `build/pages` desde `dist`, añade el acceso exclusivo de la web y copia las licencias. El flujo `.github/workflows/pages.yml` comprueba el juego y publica ese directorio al actualizar `main`. Los paquetes nativos siguen compilando desde `dist`.
+`node scripts/prepare-web.mjs` genera `build/pages` desde `dist`, añade el acceso exclusivo de la web y copia las licencias. `powershell -File scripts/publish-pages.ps1` envía esa edición a la rama `gh-pages`, configurada como fuente de Pages desde su raíz. El flujo `.github/workflows/pages.yml` comprueba el juego y el acceso web al actualizar `main`; GitHub gestiona la publicación de `gh-pages`. Los paquetes nativos siguen compilando desde `dist`.
 
 Novela visual de investigación y deducción, con cinco mundos y un sexto mapa que resuelve la historia del archivo superior. Protagonista con nombre y apariencia elegibles; Belén es una aliada, no el personaje principal.
 
