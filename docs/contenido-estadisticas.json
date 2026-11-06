@@ -1,0 +1,640 @@
+{
+  "generatedAt": "2026-11-06T01:39:22.051Z",
+  "title": "EntreLíneas: El Archivo de lo Imposible",
+  "copyright": "©2026 Leporace Renzo",
+  "contentVersion": "2.0.0",
+  "worldCount": 6,
+  "sections": 24,
+  "endings": 42,
+  "sustainedTrajectories": 18,
+  "authoredLocalDecisionBranches": 72,
+  "codex": {
+    "characters": 37,
+    "objects": 12,
+    "concepts": 18,
+    "milestones": 95,
+    "relationshipRecords": 159,
+    "optionalReadingNotIncluded": true
+  },
+  "baseFavorableRouteWords": 57433,
+  "metaStoryWords": 3404,
+  "estimatedTotalMinutes": {
+    "minimum": 298,
+    "maximum": 392
+  },
+  "method": "Modelo de primera ruta favorable:180–220palabras/minuto y6–12minutos adicionales por mapa para examinar, elegir y ordenar. Cuenta la prosa reescrita utilizada, fuentes, anotaciones, opciones visibles del tipo de ronda, réplicas, consecuencias, síntesis, epílogos y arco superior. Omite ecos heredados y cuestionarios que ya no se muestran. No incluye códice, errores, reintentos ni relecturas. Es estimación de contenido, no prueba cronometrada ni duración mínima impuesta.",
+  "worlds": [
+    {
+      "id": "sombra",
+      "title": "La Sombra Olvidada",
+      "sections": [
+        {
+          "id": 1,
+          "title": "La ventana sin sombra",
+          "narrative": 1341,
+          "documents": 346,
+          "annotation": 34,
+          "decision": 89,
+          "combat": 379,
+          "conclusion": 122,
+          "hypothesis": 0,
+          "baseRouteWords": 2311
+        },
+        {
+          "id": 2,
+          "title": "El jardín de las cosas quietas",
+          "narrative": 865,
+          "documents": 366,
+          "annotation": 29,
+          "decision": 89,
+          "combat": 372,
+          "conclusion": 119,
+          "hypothesis": 0,
+          "baseRouteWords": 1840
+        },
+        {
+          "id": 3,
+          "title": "Los bolsillos del capitán",
+          "narrative": 1262,
+          "documents": 458,
+          "annotation": 30,
+          "decision": 86,
+          "combat": 410,
+          "conclusion": 144,
+          "hypothesis": 0,
+          "baseRouteWords": 2390
+        },
+        {
+          "id": 4,
+          "title": "El derecho a un mañana",
+          "narrative": 1194,
+          "documents": 482,
+          "annotation": 28,
+          "decision": 96,
+          "combat": 429,
+          "conclusion": 159,
+          "hypothesis": 105,
+          "baseRouteWords": 2493
+        }
+      ],
+      "sustainedTrajectories": 3,
+      "endingCount": 7,
+      "endings": [
+        {
+          "id": "good",
+          "title": "Un lugar para dos sombras"
+        },
+        {
+          "id": "mixed",
+          "title": "La luz de una despedida"
+        },
+        {
+          "id": "dark",
+          "title": "La isla que guardó silencio"
+        },
+        {
+          "id": "true",
+          "title": "El mapa de las dos firmas"
+        },
+        {
+          "id": "goodCost",
+          "title": "La isla de las visitas"
+        },
+        {
+          "id": "darkControl",
+          "title": "El mapa bajo llave"
+        },
+        {
+          "id": "darkLoss",
+          "title": "La quinta piedra"
+        }
+      ],
+      "localDecisionBranches": 12,
+      "decisionSequences": 81,
+      "decisionSequencesNote": "Combinaciones que comparten escenas y consecuencias; no son81novelas independientes.",
+      "baseFavorableRouteWords": 9604,
+      "routeWordRangeBeforeEpilogue": {
+        "minimum": 9292,
+        "maximum": 9346
+      },
+      "readingMinutes": {
+        "at220ppm": 44,
+        "at180ppm": 54
+      },
+      "estimatedMinutes": {
+        "minimum": 50,
+        "maximum": 66
+      }
+    },
+    {
+      "id": "casa",
+      "title": "La Casa del Engaño",
+      "sections": [
+        {
+          "id": 1,
+          "title": "El camino que alguien borró",
+          "narrative": 871,
+          "documents": 380,
+          "annotation": 31,
+          "decision": 94,
+          "combat": 345,
+          "conclusion": 129,
+          "hypothesis": 0,
+          "baseRouteWords": 1850
+        },
+        {
+          "id": 2,
+          "title": "La receta de los nombres",
+          "narrative": 968,
+          "documents": 379,
+          "annotation": 33,
+          "decision": 101,
+          "combat": 365,
+          "conclusion": 125,
+          "hypothesis": 0,
+          "baseRouteWords": 1971
+        },
+        {
+          "id": 3,
+          "title": "Las habitaciones prestadas",
+          "narrative": 991,
+          "documents": 378,
+          "annotation": 33,
+          "decision": 94,
+          "combat": 417,
+          "conclusion": 159,
+          "hypothesis": 0,
+          "baseRouteWords": 2072
+        },
+        {
+          "id": 4,
+          "title": "La casa que debía aprender a abrir",
+          "narrative": 913,
+          "documents": 440,
+          "annotation": 28,
+          "decision": 84,
+          "combat": 377,
+          "conclusion": 156,
+          "hypothesis": 80,
+          "baseRouteWords": 2078
+        }
+      ],
+      "sustainedTrajectories": 3,
+      "endingCount": 7,
+      "endings": [
+        {
+          "id": "good",
+          "title": "La mesa de las sillas distintas"
+        },
+        {
+          "id": "mixed",
+          "title": "El sabor que falta"
+        },
+        {
+          "id": "dark",
+          "title": "Una casa con una ventana menos"
+        },
+        {
+          "id": "true",
+          "title": "La receta de la pimienta"
+        },
+        {
+          "id": "goodCost",
+          "title": "La posta antes del invierno"
+        },
+        {
+          "id": "darkControl",
+          "title": "La nueva guardiana de las llaves"
+        },
+        {
+          "id": "darkLoss",
+          "title": "El pájaro que no sabía volver"
+        }
+      ],
+      "localDecisionBranches": 12,
+      "decisionSequences": 81,
+      "decisionSequencesNote": "Combinaciones que comparten escenas y consecuencias; no son81novelas independientes.",
+      "baseFavorableRouteWords": 8542,
+      "routeWordRangeBeforeEpilogue": {
+        "minimum": 8206,
+        "maximum": 8305
+      },
+      "readingMinutes": {
+        "at220ppm": 39,
+        "at180ppm": 48
+      },
+      "estimatedMinutes": {
+        "minimum": 45,
+        "maximum": 60
+      }
+    },
+    {
+      "id": "traje",
+      "title": "El Traje del Emperador",
+      "sections": [
+        {
+          "id": 1,
+          "title": "Un aplauso antes de tiempo",
+          "narrative": 837,
+          "documents": 374,
+          "annotation": 29,
+          "decision": 85,
+          "combat": 347,
+          "conclusion": 121,
+          "hypothesis": 0,
+          "baseRouteWords": 1793
+        },
+        {
+          "id": 2,
+          "title": "El telar que todos describen",
+          "narrative": 1046,
+          "documents": 350,
+          "annotation": 26,
+          "decision": 90,
+          "combat": 416,
+          "conclusion": 122,
+          "hypothesis": 0,
+          "baseRouteWords": 2050
+        },
+        {
+          "id": 3,
+          "title": "Lo que el aplauso no tapa",
+          "narrative": 907,
+          "documents": 423,
+          "annotation": 27,
+          "decision": 98,
+          "combat": 345,
+          "conclusion": 140,
+          "hypothesis": 0,
+          "baseRouteWords": 1940
+        },
+        {
+          "id": 4,
+          "title": "El derecho a no aplaudir",
+          "narrative": 879,
+          "documents": 406,
+          "annotation": 30,
+          "decision": 78,
+          "combat": 361,
+          "conclusion": 145,
+          "hypothesis": 79,
+          "baseRouteWords": 1978
+        }
+      ],
+      "sustainedTrajectories": 3,
+      "endingCount": 7,
+      "endings": [
+        {
+          "id": "good",
+          "title": "El aplauso que esperó"
+        },
+        {
+          "id": "mixed",
+          "title": "Una costura a la vista"
+        },
+        {
+          "id": "dark",
+          "title": "La ciudad que aprendió a susurrar"
+        },
+        {
+          "id": "true",
+          "title": "El aplauso fuera de turno"
+        },
+        {
+          "id": "goodCost",
+          "title": "El mes de las puntadas pequeñas"
+        },
+        {
+          "id": "darkControl",
+          "title": "La luz con un nombre nuevo"
+        },
+        {
+          "id": "darkLoss",
+          "title": "La manga que Tilo no trajo"
+        }
+      ],
+      "localDecisionBranches": 12,
+      "decisionSequences": 81,
+      "decisionSequencesNote": "Combinaciones que comparten escenas y consecuencias; no son81novelas independientes.",
+      "baseFavorableRouteWords": 8254,
+      "routeWordRangeBeforeEpilogue": {
+        "minimum": 7965,
+        "maximum": 8050
+      },
+      "readingMinutes": {
+        "at220ppm": 38,
+        "at180ppm": 46
+      },
+      "estimatedMinutes": {
+        "minimum": 44,
+        "maximum": 58
+      }
+    },
+    {
+      "id": "neon",
+      "title": "Neón & Sombras",
+      "sections": [
+        {
+          "id": 1,
+          "title": "Una persona que el sistema no conoce",
+          "narrative": 1074,
+          "documents": 334,
+          "annotation": 30,
+          "decision": 86,
+          "combat": 341,
+          "conclusion": 120,
+          "hypothesis": 0,
+          "baseRouteWords": 1985
+        },
+        {
+          "id": 2,
+          "title": "La voz que no es una copia",
+          "narrative": 1183,
+          "documents": 416,
+          "annotation": 28,
+          "decision": 88,
+          "combat": 394,
+          "conclusion": 138,
+          "hypothesis": 0,
+          "baseRouteWords": 2247
+        },
+        {
+          "id": 3,
+          "title": "La persona más segura del barrio",
+          "narrative": 1227,
+          "documents": 374,
+          "annotation": 31,
+          "decision": 90,
+          "combat": 431,
+          "conclusion": 126,
+          "hypothesis": 0,
+          "baseRouteWords": 2279
+        },
+        {
+          "id": 4,
+          "title": "Los nombres al amanecer",
+          "narrative": 1169,
+          "documents": 343,
+          "annotation": 29,
+          "decision": 90,
+          "combat": 396,
+          "conclusion": 125,
+          "hypothesis": 78,
+          "baseRouteWords": 2230
+        }
+      ],
+      "sustainedTrajectories": 3,
+      "endingCount": 7,
+      "endings": [
+        {
+          "id": "good",
+          "title": "La ciudad que aprendió los nombres"
+        },
+        {
+          "id": "mixed",
+          "title": "Una frecuencia compartida"
+        },
+        {
+          "id": "dark",
+          "title": "Ruido blanco"
+        },
+        {
+          "id": "true",
+          "title": "La voz después del nombre"
+        },
+        {
+          "id": "goodCost",
+          "title": "Los servidores de quienes no podían ayudar"
+        },
+        {
+          "id": "darkControl",
+          "title": "El cero de Ada"
+        },
+        {
+          "id": "darkLoss",
+          "title": "Una frecuencia que no era tuya"
+        }
+      ],
+      "localDecisionBranches": 12,
+      "decisionSequences": 81,
+      "decisionSequencesNote": "Combinaciones que comparten escenas y consecuencias; no son81novelas independientes.",
+      "baseFavorableRouteWords": 9235,
+      "routeWordRangeBeforeEpilogue": {
+        "minimum": 8994,
+        "maximum": 9036
+      },
+      "readingMinutes": {
+        "at220ppm": 42,
+        "at180ppm": 52
+      },
+      "estimatedMinutes": {
+        "minimum": 48,
+        "maximum": 64
+      }
+    },
+    {
+      "id": "tronos",
+      "title": "Tronos de Ceniza",
+      "sections": [
+        {
+          "id": 1,
+          "title": "La carta que llegó demasiado pronto",
+          "narrative": 1021,
+          "documents": 393,
+          "annotation": 30,
+          "decision": 83,
+          "combat": 417,
+          "conclusion": 117,
+          "hypothesis": 0,
+          "baseRouteWords": 2061
+        },
+        {
+          "id": 2,
+          "title": "La mesa de las sillas vacías",
+          "narrative": 992,
+          "documents": 356,
+          "annotation": 31,
+          "decision": 83,
+          "combat": 377,
+          "conclusion": 127,
+          "hypothesis": 0,
+          "baseRouteWords": 1966
+        },
+        {
+          "id": 3,
+          "title": "La tinta en la mano propia",
+          "narrative": 1157,
+          "documents": 422,
+          "annotation": 27,
+          "decision": 91,
+          "combat": 445,
+          "conclusion": 137,
+          "hypothesis": 0,
+          "baseRouteWords": 2279
+        },
+        {
+          "id": 4,
+          "title": "Un tratado que pueda corregirse",
+          "narrative": 1022,
+          "documents": 360,
+          "annotation": 24,
+          "decision": 89,
+          "combat": 393,
+          "conclusion": 128,
+          "hypothesis": 85,
+          "baseRouteWords": 2101
+        }
+      ],
+      "sustainedTrajectories": 3,
+      "endingCount": 7,
+      "endings": [
+        {
+          "id": "good",
+          "title": "El tratado de las manos vacías"
+        },
+        {
+          "id": "mixed",
+          "title": "La paz de una estación"
+        },
+        {
+          "id": "dark",
+          "title": "Las cartas que sobrevivieron"
+        },
+        {
+          "id": "true",
+          "title": "La cláusula del próximo invierno"
+        },
+        {
+          "id": "goodCost",
+          "title": "La paz sin la cabecera"
+        },
+        {
+          "id": "darkControl",
+          "title": "La paz de una sola voz"
+        },
+        {
+          "id": "darkLoss",
+          "title": "La orilla que seguía esperando"
+        }
+      ],
+      "localDecisionBranches": 12,
+      "decisionSequences": 81,
+      "decisionSequencesNote": "Combinaciones que comparten escenas y consecuencias; no son81novelas independientes.",
+      "baseFavorableRouteWords": 8906,
+      "routeWordRangeBeforeEpilogue": {
+        "minimum": 8642,
+        "maximum": 8699
+      },
+      "readingMinutes": {
+        "at220ppm": 41,
+        "at180ppm": 50
+      },
+      "estimatedMinutes": {
+        "minimum": 47,
+        "maximum": 62
+      }
+    },
+    {
+      "id": "origen",
+      "title": "El Archivo del Origen",
+      "sections": [
+        {
+          "id": 1,
+          "title": "La puerta que no estaba en el mapa",
+          "narrative": 1039,
+          "documents": 390,
+          "annotation": 34,
+          "decision": 81,
+          "combat": 396,
+          "conclusion": 135,
+          "hypothesis": 0,
+          "baseRouteWords": 2075
+        },
+        {
+          "id": 2,
+          "title": "La encuadernadora que seguía aquí",
+          "narrative": 1164,
+          "documents": 349,
+          "annotation": 30,
+          "decision": 91,
+          "combat": 416,
+          "conclusion": 134,
+          "hypothesis": 0,
+          "baseRouteWords": 2184
+        },
+        {
+          "id": 3,
+          "title": "El creador bajo su propia ley",
+          "narrative": 1266,
+          "documents": 518,
+          "annotation": 25,
+          "decision": 85,
+          "combat": 448,
+          "conclusion": 141,
+          "hypothesis": 0,
+          "baseRouteWords": 2483
+        },
+        {
+          "id": 4,
+          "title": "La próxima página",
+          "narrative": 1156,
+          "documents": 341,
+          "annotation": 27,
+          "decision": 90,
+          "combat": 414,
+          "conclusion": 137,
+          "hypothesis": 87,
+          "baseRouteWords": 2252
+        }
+      ],
+      "sustainedTrajectories": 3,
+      "endingCount": 7,
+      "endings": [
+        {
+          "id": "good",
+          "title": "El derecho a una próxima página"
+        },
+        {
+          "id": "mixed",
+          "title": "Un archivo con las ventanas entreabiertas"
+        },
+        {
+          "id": "dark",
+          "title": "El silencio del final perfecto"
+        },
+        {
+          "id": "true",
+          "title": "El archivo que pudo corregir a su visita"
+        },
+        {
+          "id": "goodCost",
+          "title": "La mesa después de la misión"
+        },
+        {
+          "id": "darkControl",
+          "title": "La autoría de la última tachadura"
+        },
+        {
+          "id": "darkLoss",
+          "title": "Las puertas que tu orden cortó"
+        }
+      ],
+      "localDecisionBranches": 12,
+      "decisionSequences": 81,
+      "decisionSequencesNote": "Combinaciones que comparten escenas y consecuencias; no son81novelas independientes.",
+      "baseFavorableRouteWords": 9488,
+      "routeWordRangeBeforeEpilogue": {
+        "minimum": 9252,
+        "maximum": 9327
+      },
+      "readingMinutes": {
+        "at220ppm": 44,
+        "at180ppm": 53
+      },
+      "estimatedMinutes": {
+        "minimum": 50,
+        "maximum": 65
+      }
+    }
+  ]
+}
