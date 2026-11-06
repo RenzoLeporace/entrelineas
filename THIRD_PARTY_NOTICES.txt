@@ -1,0 +1,29 @@
+EntreLíneas: El Archivo de lo Imposible
+Dirección y concepto: Leporace Renzo.
+Desarrollo, escritura y arte: asistencia de IA mediante Codex y la herramienta
+integrada de imágenes. Música: acorde sintetizado por el propio programa.
+
+No se han incorporado archivos, personajes, guiones o música de Danganronpa,
+One Thousand Lies ni de adaptaciones comerciales de cuentos. Estas obras fueron
+referencias de experiencia solicitadas por el usuario. Sus marcas pertenecen
+a sus titulares y no implican relación ni aprobación de este proyecto.
+
+Inspiraciones literarias: Peter Pan / Peter and Wendy (J. M. Barrie), Hansel y
+Gretel (tradición recopilada por Jacob y Wilhelm Grimm), El traje nuevo del
+emperador (Hans Christian Andersen). Esta entrega utiliza guiones y personajes
+propios. El régimen de los textos originales y sus adaptaciones puede variar
+por territorio; el aviso no concede derechos sobre obras o marcas de terceros.
+Fuentes consultadas: https://www.gutenberg.org/ebooks/16
+https://www.gutenberg.org/ebooks/2591
+https://www.gutenberg.org/ebooks/1597
+Referencias de formato: https://www.spike-chunsoft.com/games/danganronpa-trigger-happy-havoc/
+https://keinart.itch.io/one-thousand-lies
+
+Aplicación web: HTML, CSS y JavaScript. No utiliza fuentes remotas ni bibliotecas
+JavaScript de ejecución de terceros. Los tipos de letra proceden del sistema.
+
+Windows: Microsoft Edge WebView2 SDK y runtime. El SDK se redistribuye únicamente
+en los términos de Microsoft incluidos en la carpeta de licencia correspondiente.
+El runtime de WebView2 pertenece a Microsoft y requiere su propia licencia.
+Android: utiliza las API del sistema Android y el componente WebView instalado.
+Las herramientas del SDK Android solo se emplean para compilar y no se incluyen.

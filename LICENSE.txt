@@ -1,0 +1,32 @@
+EntreLíneas: El Archivo de lo Imposible
+Copyright © 2026 Leporace Renzo. Todos los derechos reservados.
+
+LICENCIA PROPIETARIA
+
+Los elementos originales de este proyecto se entregan a Leporace Renzo para su uso,
+modificación, distribución y explotación, en la medida en que esos derechos existan
+y puedan atribuirse conforme a la legislación aplicable. No se concede al público
+una licencia de código abierto ni una autorización general para copiar, modificar,
+redistribuir, sublicenciar o comercializar el proyecto sin permiso del titular.
+
+Las copias autorizadas para uso personal permiten instalar y ejecutar el juego.
+El titular puede conceder otros permisos por separado.
+
+La publicación web autorizada por el titular permite acceder al juego y jugarlo
+para uso personal y no comercial. Se permiten las copias técnicas temporales que
+el navegador necesite para ese acceso. La visibilidad del repositorio en GitHub
+no concede una licencia de reutilización, redistribución o explotación de los
+elementos originales fuera de los permisos anteriores. Esta reserva no limita
+los derechos que otorgue directamente la ley ni las licencias de terceros.
+
+Las obras, marcas y componentes de terceros conservan sus respectivos derechos.
+Las condiciones indicadas en THIRD_PARTY_NOTICES prevalecen para esos componentes.
+Los guiones, el código y las ilustraciones de esta entrega se produjeron con
+asistencia de inteligencia artificial por encargo del titular. Este aviso no
+afirma que materiales sin protección legal adquieran derechos por incluirse aquí,
+ni constituye una inscripción o registro oficial de autoría.
+
+La aplicación se entrega tal como está, sin garantía de resultados pedagógicos
+o de una duración exacta de juego. El ritmo de lectura y las decisiones varían.
+
+Contacto para permisos: Leporace Renzo, por el medio de distribución autorizado.

@@ -1,0 +1,17 @@
+.web-access-pending{margin:0;min-height:100vh;background:#0c201c;color:#f5eddc;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+.web-access{min-height:100vh;min-height:100svh;display:grid;place-items:center;padding:28px 20px;box-sizing:border-box;background:radial-gradient(ellipse at 50% 0,rgba(133,193,150,.13),transparent 65%),linear-gradient(150deg,#102d27,#0b1918)}
+.web-access-card{box-sizing:border-box;width:min(100%,420px);padding:38px 34px 28px;background:#142d27;border:1px solid #45634c;box-shadow:0 24px 80px #0005;text-align:left}
+.web-access-mark{image-rendering:pixelated;display:block;margin-bottom:22px}
+.web-access-kicker{color:#c9b981;font-size:10px;letter-spacing:.19em;line-height:1.6;margin:0 0 9px}
+.web-access-card h1{font-family:Georgia,serif;font-size:38px;line-height:1.2;color:#f3e6c5;margin:0 0 12px}
+.web-access-intro{color:#b4c2b4;margin:0 0 30px;font-size:15px}
+.web-access-card label{display:block;margin:18px 0 8px;font-size:14px;font-weight:600;color:#e6dfca}
+.web-access-card input{box-sizing:border-box;width:100%;min-height:48px;border:1px solid #506755;border-radius:4px;padding:12px;background:#0c211d;color:#f5eddc;font:16px system-ui}
+.web-access-card input:focus-visible,.web-access-card button:focus-visible,.web-access-card a:focus-visible{outline:2px solid #d8c38a;outline-offset:3px}
+.web-password-row{display:flex;gap:8px}.web-password-row input{min-width:0}.web-password-row button{min-width:60px;border:1px solid #506755;border-radius:4px;background:#203e33;color:#d8e7d4;cursor:pointer}
+#access-message{min-height:22px;margin:13px 0;color:#f4b9aa;font-size:14px}
+.web-access-submit{box-sizing:border-box;width:100%;min-height:49px;border:1px solid #c9ba82;border-radius:4px;padding:12px 18px;background:#d8c58b;color:#182c23;font:600 16px system-ui;text-align:center;cursor:pointer}
+.web-access-submit span{float:right}.web-access-submit:disabled{opacity:.7;cursor:wait}
+.web-access-card footer{border-top:1px solid #34513f;margin-top:30px;padding-top:20px;font-size:11px;line-height:1.9;color:#a6b5a6}.web-access-card footer a{color:#c9b981;text-decoration:underline;text-underline-offset:3px}
+.web-rights{clear:both;padding:22px 20px;background:#0b1d19;border-top:1px solid #35503e;color:#c7d2c4;text-align:center;font:12px/1.7 system-ui,sans-serif}.web-rights strong{font-size:13px;color:#e5d49f}.web-rights p{max-width:850px;margin:7px auto}.web-rights a{color:#d8c58b;text-decoration:underline;text-underline-offset:3px}
+@media(max-width:430px){.web-access{padding:18px 14px}.web-access-card{padding:28px 24px}.web-access-card h1{font-size:34px}}
