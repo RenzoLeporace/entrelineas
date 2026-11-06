@@ -24,6 +24,8 @@ jobs:
         run: node tests/gameplay.test.mjs
       - name: Preparar la edición web
         run: node scripts/prepare-web.mjs
+      - name: Comprobar el acceso web
+        run: node tests/web.test.mjs
       - name: Configurar Pages
         uses: actions/configure-pages@v5
       - name: Empaquetar la web
