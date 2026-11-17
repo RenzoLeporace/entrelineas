@@ -38,7 +38,7 @@
  amend('lia',{
   bio:'Acaba de mudarse y dejó una piedra junto a la ventana, fuera de las cajas. Le preocupa que Julia, su amiga de la escuela anterior, se acostumbre a no verla.',
   detail:'Lía puede acompañarte, hacer preguntas y objetar tus propuestas. No lleva tus debates ni decide a través de vos. Reconoce a Nilo como alguien capaz de responder por su propia ayuda y te recuerda los límites de lo que prometiste.',
-  after:'Lía vuelve con su madre después del caso del reloj. Compartió la investigación y conservó su voz, incluso para oponerse a vos. El recorrido registra tus decisiones sobre el crédito de Nilo y su libertad: regresar a casa no convierte un daño en una aventura que todos deban celebrar.'
+  after:'Lía vuelve por la ventana y encuentra a su madre al teléfono con la policía. Alcanzar el faro no resuelve lo que pasó en casa durante su ausencia. El recorrido también conserva cómo trataste a Nilo y qué hizo Lía cuando discrepó con vos.'
  });
  amend('pipo',{after:'La guía sellada guardada en su bufanda conecta a Pipo con un permiso de reescritura. Los contrastes sitúan el cambio junto a sus órdenes de impedir partidas; reconocer miedo no produce el mismo efecto. El expediente distingue la contención de ese permiso de las tareas que siguen siendo suyas: devolver dibujos, preguntar y aceptar que alguien quiera distancia.'});
  amend('teo',{after:'Teo encerró en el frasco azul la voz de la campana pequeña. El bronce permaneció colgado en la torre. La etiqueta y las visitas prueban ese robo y la mentira preparada contra Nilo; no identifican a Teo como portador del foco. Su hermano volvió de visita y él evitó el muelle: guardar una voz no reemplaza la conversación que no quiso tener.'});

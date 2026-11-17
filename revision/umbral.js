@@ -108,7 +108,7 @@ Te acercás a la puerta del dormitorio y golpeás el marco antes de cruzar.`]
 // por qué se abre el siguiente expediente. No transforma el cierre en un éxito.
 window.INTERLUDES = [
  [
-  ['El informe de Nunca Siempre', `Después de despedirte de Lía y de su madre, tocás la señal de tu cuaderno en la puerta del dormitorio. El enlace que Belén mantuvo abierto te lleva al Archivo; ella espera en la misma mesa en que aceptaste el trabajo.
+  ['El informe de Nunca Siempre', `Cuando Lía se sienta junto a su madre en el pasillo, retrocedés desde el marco sin entrar al dormitorio. Tocás la señal del cuaderno y la puerta se cierra del lado del Archivo. Belén espera en la mesa donde aceptaste el trabajo.
 
 Le entregás la copia del registro, la nota de Nilo y el resultado de la comparación final. Antes de preguntar por tu versión de los hechos, Belén deja separados tres asuntos: la salida de Nilo, el sonido que Teo encerró y las palabras que cambiaban alrededor de Pipo. No son tres nombres para el mismo delito.
 
